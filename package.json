@@ -26,9 +26,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/jackd942/api-course.git"
+    "url": "git+https://github.com/WendyKKelly/Foodtruck-api2.git"
   },
-  "author": "Jack Davis <jack@devslopes.com>",
+  "author": "Wendy Kelly <wendykkelly@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
